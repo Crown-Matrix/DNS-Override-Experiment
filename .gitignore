@@ -1,0 +1,11 @@
+.DS_Store
+progress*.txt
+domains.txt
+domains.zip
+failed.txt
+failed_domains.txt
+results.tsv
+*.zip
+
+# personal data dumps (never tracked)
+blocked_domain_info_personal/
